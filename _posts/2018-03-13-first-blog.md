@@ -4,7 +4,6 @@ title: '测试博客'
 subtitle: '这是一个测试'
 date: 2018-03-13
 categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: jekyll 前端开发 设计
 ---
 
