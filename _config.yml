@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: '知凡'
-description: ''
+title: 'Q的博客'
+description: 'just Q'
 keyword: ''
 url: 'http://justq.fun' # your host
 
@@ -18,7 +18,7 @@ footer:
 
 # Author 配置博主信息
 author: '王琦'
-nickname: '知凡'
+nickname: 'Q'
 bio: ''
 
 # Search
@@ -34,7 +34,7 @@ comments:
   disqus: false
   disqus_url: ''
 
-  livere: true
+  livere: false
   livere_uid: MTAyMC8yODEwMC80Njcz
 
 # Reward 赞赏功能 by Ray-Eldath
